@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# IDE project config
+.idea/
+.vscode
+
+# Script execution output
+output/
+ui/output/
+
+# Cache
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv/
+
+# Logs
+*.log
+
+# Test coverage file
+.coverage
