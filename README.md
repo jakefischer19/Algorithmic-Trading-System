@@ -24,9 +24,6 @@ The **Algorithmic Trading System (ATS)** is designed to collect and store financ
 - **Data Warehouse Integration** for long-term data storage.  
 - **Web Scraping** for additional market insights.  
 
-## Contributors
-Jacob Rawlings, Jake Fischer, Alan Abdollahzadeh, Devon Volberg, William Blake, Benjamin Carrier, Vanessa Dubouzet, Dakota Flath, Parker Green, Yuan Hu, Jacob Labelle, Isaac Lengacher-Bergeron, Dominic Presch, Dylan Soares, Jaeden Soukoroff.
-
 ## Setup
 1. `cp example.env .env`
 2. Fill `.env` file with appropriate credentials
@@ -43,3 +40,6 @@ You can also use `source .venv/bin/activate` instead, which is useful when runni
 - `python3 -m ats.collection.bonds_api_query`
 - `python3 -m ats.database.bonds_insert`
 - `deactivate`
+
+## Contributors
+Jacob Rawlings, Jake Fischer, Alan Abdollahzadeh, Devon Volberg, William Blake, Benjamin Carrier, Vanessa Dubouzet, Dakota Flath, Parker Green, Yuan Hu, Jacob Labelle, Isaac Lengacher-Bergeron, Dominic Presch, Dylan Soares, Jaeden Soukoroff.
