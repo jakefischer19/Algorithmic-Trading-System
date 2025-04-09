@@ -1,5 +1,8 @@
 # Algorithmic Trading System
 
+## About
+This is a project that was completed for Software Engineering courses COSC 470 and 471 at Okanagan College. Requiring collaboration with a team using Agile project management techniques complimented by the SCRUM agile framework.
+
 ## Overview
 The **Algorithmic Trading System (ATS)** is designed to collect and store financial market data for analysis using Machine Learning (ML) models. It automates data gathering from various financial sources, processes the data, and stores it in a structured database.
 
@@ -42,4 +45,4 @@ You can also use `source .venv/bin/activate` instead, which is useful when runni
 - `deactivate`
 
 ## Contributors
-Jacob Rawlings, Jake Fischer, Alan Abdollahzadeh, Devon Volberg, William Blake, Benjamin Carrier, Vanessa Dubouzet, Dakota Flath, Parker Green, Yuan Hu, Jacob Labelle, Isaac Lengacher-Bergeron, Dominic Presch, Dylan Soares, Jaeden Soukoroff.
+Jacob Rawlings, Jake Fischer, Alan Abdollahzadeh, Benjamin Carrier, Vanessa Dubouzet, Dominic Presch.
