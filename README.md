@@ -1,7 +1,25 @@
 # Algorithmic Trading System
 
 ## About
-This is a project that was completed for Software Engineering courses COSC 470 and 471 at Okanagan College. Requiring collaboration with a team using Agile project management techniques complimented by the SCRUM agile framework.
+This project was developed as part of the **Software Engineering courses COSC 470 and COSC 471** at Okanagan College. It focused on building an **Algorithmic Trading System (ATS)** capable of collecting, processing, and managing financial market data for analysis with Machine Learning (ML) models.
+
+The project was developed collaboratively using **Agile project management** techniques, following the **SCRUM framework** for iterative development and teamwork. Additionally, **Rational Unified Process (RUP) principles** were applied to structure the project plan, ensuring a well-organized and systematic approach to development.
+
+### Documentation  
+As part of the project, extensive documentation was produced to ensure clarity, maintainability, and scalability of the system. This included:
+- **System Requirements Specification (SRS)** – Outlining functional and non-functional requirements.  
+- **Software Design Document (SDD)** – Detailing system architecture, database schema, and API design.  
+- **Project Plan & Sprint Reports** – Tracking Agile development progress, sprint planning, and retrospectives.  
+- **User Manual** – Providing instructions on system usage and configuration.  
+- **Configuration Management Plan** – Defining version control strategies and deployment procedures. 
+
+Throughout the project, team members gained experience in:
+- **Software design and development** using Python and various web technologies.
+- **Database design, management and data processing** for financial data analysis.
+- **Version control and team collaboration** using Git and Jira.
+- **Agile methodologies** with regular sprints, stand-ups, and retrospectives.
+
+The project demonstrated how structured software development practices, along with effective team collaboration, can result in a well-rounded and easily maintainable product.
 
 ## Overview
 The **Algorithmic Trading System (ATS)** is designed to collect and store financial market data for analysis using Machine Learning (ML) models. It automates data gathering from various financial sources, processes the data, and stores it in a structured database.
