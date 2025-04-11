@@ -1,7 +1,7 @@
 # Algorithmic Trading System
 
 ## About
-This project was developed as part of the **Software Engineering courses COSC 470 and COSC 471** at Okanagan College. It focused on building an **Algorithmic Trading System (ATS)** capable of collecting, processing, and managing financial market data for analysis with Machine Learning (ML) models.
+This project was developed as part of the **Software Engineering courses COSC 470 and COSC 471** at Okanagan College. It focused on building an **Algorithmic Trading System (ATS)** capable of collecting, processing, and managing financial market data for analysis with Machine Learning (ML) models. Our client, a research team out of Langara College, intends to use the datasets produced by the ATS to train their models used for short term market forcasting.
 
 The project was developed collaboratively using **Agile project management** techniques, following the **SCRUM framework** for iterative development and teamwork. Additionally, **Rational Unified Process (RUP) principles** were applied to structure the project plan, ensuring a well-organized and systematic approach to development.
 
